@@ -17,3 +17,7 @@ end
 def last_element(array)
   array[array.length - 1]
 end
+
+def last_element(array)
+  array.last
+end
